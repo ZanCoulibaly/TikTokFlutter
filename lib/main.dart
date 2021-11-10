@@ -86,13 +86,16 @@ class HomePage extends StatelessWidget {
       "video": "assets/videos/Banque_9.mp4",
     },
     {
-      "video": "assets/videos/football_2.mp4",
+      "video": "assets/videos/connexion_3.mp4",
     },
     {
-      "video": "assets/videos/Lame_8.mp4",
+      "video": "assets/videos/Bassoumano_7.mp4",
     },
     {
-      "video": "assets/videos/Lame.mp4",
+      "video": "assets/videos/orange_1.mp4",
+    },
+    {
+      "video": "assets/videos/kante_4.mp4",
     },
   ];
   @override
@@ -194,7 +197,7 @@ class PostContent extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       const Text(
-                        '@Lame_Sénégalais',
+                        '',
                         style: TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.w600,
@@ -202,7 +205,7 @@ class PostContent extends StatelessWidget {
                       ),
                       const SizedBox(height: 10),
                       const Text(
-                        'Lame comedien qui fait Buzz actuellement sur les reseau sociaux',
+                        '',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -217,7 +220,7 @@ class PostContent extends StatelessWidget {
                           ),
                           SizedBox(width: 5),
                           Text(
-                            'Original Senegalais',
+                            'Music',
                             style: TextStyle(
                               color: Colors.white,
                             ),
