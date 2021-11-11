@@ -145,6 +145,7 @@ class _VideoWidgetState extends State<VideoWidget> {
       ..initialize().then((_) {
         _controller.setLooping(true);
         _controller.play();
+
         setState(() {});
       });
   }

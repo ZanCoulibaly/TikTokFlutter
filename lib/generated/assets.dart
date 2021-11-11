@@ -2,13 +2,15 @@
 class Assets {
   Assets._();
 
+  static const String assetsIcone = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/icone.png';
   static const String imagesDiscIcon = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/images/disc_icon.png';
   static const String imagesLame6 = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/images/Lame_6.jpeg';
   static const String imagesTiktokAdd = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/images/tiktok_add.png';
   static const String imagesTiktokIcon = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/images/tiktok_icon.png';
   static const String videosBanque9 = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/videos/Banque_9.mp4';
-  static const String videosFootball2 = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/videos/football_2.mp4';
-  static const String videosLame = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/videos/Lame.mp4';
-  static const String videosLame8 = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/videos/Lame_8.mp4';
+  static const String videosBassoumano7 = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/videos/Bassoumano_7.mp4';
+  static const String videosConnexion3 = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/videos/connexion_3.mp4';
+  static const String videosKante4 = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/videos/kante_4.mp4';
+  static const String videosOrange1 = 'C:/Users/zan.coulibaly/AndroidStudioProjects/projectFlutter/assets/videos/orange_1.mp4';
 
 }
